@@ -5,7 +5,7 @@ public class PalíndromoTest extends TestCase {
 	public PalíndromoTest(String name) {
 		super(name);
 	}
-
+//12 feb 10.05
 	protected void setUp() throws Exception {
 		super.setUp();
 	}
