@@ -2,6 +2,8 @@ public class Palindromo {
 
 	public static boolean funcion(String a) {
 
+		
+		//modificacion victor  feb 12 10.20
 		boolean res = true;
 
 		int i = 0; //1
