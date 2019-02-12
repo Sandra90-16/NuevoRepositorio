@@ -37,6 +37,7 @@ public class Palindromo {
 	public static void main(String[] args) {
 		System.out.println("Es un palindromo " + funcion("dabale arroz a la zorra el abad"));
 	}
+	//modificacion 12 feb 10:04
 
 }
 
