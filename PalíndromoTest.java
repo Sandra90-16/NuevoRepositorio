@@ -7,6 +7,7 @@ public class PalíndromoTest extends TestCase {
 		super(name);
 	}
 //12 feb 10.05 kigkyu
+	//10.13
 	protected void setUp() throws Exception {
 		super.setUp();
 	}
