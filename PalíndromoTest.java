@@ -42,4 +42,5 @@ public class PalíndromoTest extends TestCase {
 		 assertFalse(Palindromo.funcion("12345678"));
 		
 	    }
+	 //10.15
 	}
