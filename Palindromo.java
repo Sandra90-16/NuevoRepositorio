@@ -1,7 +1,12 @@
 public class Palindromo {
 
 	public static boolean funcion(String a) {
+<<<<<<< HEAD
 		//victor 10:58
+=======
+
+		//sandraa 10.56
+>>>>>>> branch 'master' of https://github.com/Sandra90-16/NuevoRepositorio.git
 		//modificacion victor 15 feb
 		//modificacion victor  feb 12 10.20
 		boolean res = true;
