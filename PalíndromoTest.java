@@ -1,8 +1,11 @@
 import junit.framework.TestCase;
 
 public class PalíndromoTest extends TestCase {
-//cambio 12 feb 10.11
+	//victor 15 feb 10:44
+	//cambio 12 feb 10.11
 	//sandra
+
+	
 	public PalíndromoTest(String name) {
 		super(name);
 	}
