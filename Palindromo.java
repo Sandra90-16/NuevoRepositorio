@@ -2,7 +2,7 @@ public class Palindromo {
 
 	public static boolean funcion(String a) {
 
-		
+		//modificacion victor 15 feb
 		//modificacion victor  feb 12 10.20
 		boolean res = true;
 
